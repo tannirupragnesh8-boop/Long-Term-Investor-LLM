@@ -1,3 +1,16 @@
+langchain
+langchain-google-genai
+langchain-mcp-adapters
+mcp==1.24.0
+stoxim-api
 
-gradio
-google-genai
+unsloth
+unsloth_zoo
+pyarrow
+datasets
+trl
+peft
+accelerate
+bitsandbytes
+xformers
+transformers
