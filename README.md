@@ -16,7 +16,7 @@ More features and improvements are still being worked on
 
 # Dataset
 
-The custom dataset used for fine-tuning is not included in this repository.
+The custom dataset used for fine-tuning is included in this repository.
 
 # Note
 
